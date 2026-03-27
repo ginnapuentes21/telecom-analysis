@@ -1,11 +1,11 @@
 # telecom-analysis
 
-##📊 Análisis de Uso de Clientes – ConnectaTel
-##🎯 Objetivo del proyecto
+📊 Análisis de Uso de Clientes – ConnectaTel
+🎯 Objetivo del proyecto
 
 El objetivo de este proyecto es analizar el comportamiento de uso de los clientes de ConnectaTel, identificando patrones de consumo, segmentando usuarios según su nivel de uso y generando insights accionables que apoyen la toma de decisiones de negocio, especialmente en la optimización de planes y estrategias comerciales.
 
-##🗂️ Datasets utilizados
+🗂️ Datasets utilizados
 
 Se utilizaron tres datasets:
 1. plans
@@ -19,7 +19,7 @@ Variables relevantes: user_id, age, city, plan, reg_date
 Registro de uso del servicio
 Variables relevantes: user_id, type (call/text), duration, length, date
 
-##🔎 Etapas del análisis
+🔎 Etapas del análisis
 
 El análisis se desarrolló en las siguientes etapas:
 
@@ -51,7 +51,7 @@ Identificación de usuarios intensivos (heavy users)
 Evaluación del valor de segmentos
 Recomendaciones de negocio
 
-##▶️ Cómo ejecutar el notebook
+▶️ Cómo ejecutar el notebook
 
 Puedes ejecutar este proyecto de las siguientes formas:
 
